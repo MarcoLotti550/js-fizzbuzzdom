@@ -1,0 +1,52 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.d-flex{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.box{
+    background-color: black;
+    color: white;
+    vertical-align: middle;
+    text-align: center;
+    width: 200px;
+    min-height: 120px;
+    line-height: 120px;
+    margin: 30px;
+}
+.fizz{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    width: 200px;
+    min-height: 120px;
+    line-height: 120px;
+    margin: 30px;
+}
+.buzz{
+    background-color: red;
+    text-align: center;
+    vertical-align: middle;
+    width: 200px;
+    min-height: 120px;
+    line-height: 120px;
+    margin: 30px;
+}
+.fizzbuzz{
+    background-color: green;
+    color: white;
+    vertical-align: middle;
+    text-align: center;
+    width: 200px;
+    min-height: 120px;
+    line-height: 120px;
+    margin: 30px;
+}
+
+
